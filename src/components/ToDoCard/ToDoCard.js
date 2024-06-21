@@ -13,9 +13,9 @@ function ToDoCard({index,task,category,deleteItem}) {
   
   }
   const CATEGORY_COLOURS ={
-    Learning:"blue",
+    Learning:"yellow",
     Work:"Purple",
-    Shopping:"green",
+    Shopping:"blue",
     Health:"red",
     Others:"gray",
     Personal:"pink"
